@@ -1,0 +1,33 @@
+<extension version="2.5" type="template" client="site">
+    <name>kobap</name>
+    <creationDate>2016-05-02</creationDate>
+    <author>KobaP</author>
+    <authorEmail>gurupavel@bigmir.net</authorEmail>
+    <authorUrl>http://www.kobap.pro</authorUrl>
+    <copyright>© 2014 Pavel A. Koba. All Rights Reserved.</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <version>1.0.0</version>
+    <description>TPL_KOBAP_XML_DESCRIPTION</description>
+
+    <files>
+        <folder>css</folder>
+        <folder>images</folder>
+        <folder>language</folder>
+        <filename>component.php</filename>
+        <filename>error.php</filename>
+        <filename>index.php</filename>
+        <filename>templateDetails.xml</filename>
+    </files>
+
+    <positions>
+    
+    
+    
+    
+    </positions>
+
+    <languages folder="language">
+        <language tag="en-GB">en-GB/en-GB.tpl_kobap.ini</language>
+        <language tag="en-GB">en-GB/en-GB.tpl_kobap.sys.ini</language>
+    </languages>
+</extension>
